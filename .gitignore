@@ -1,0 +1,12 @@
+venv
+__pycache__
+.git
+.gitignore
+data
+results
+scripts
+*.csv
+*.pt
+*.bin
+model_output/*.pt
+model_output/*.bin
