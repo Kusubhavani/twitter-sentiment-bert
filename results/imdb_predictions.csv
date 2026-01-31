@@ -1,0 +1,7 @@
+text,label,sentiment,confidence
+I loved this movie. The acting was brilliant and the story was engaging.,1,positive,0.51
+This film was terrible. Waste of time and money.,0,negative,0.512
+An excellent performance by the lead actor.,1,positive,0.546
+The plot was boring and predictable.,0,negative,0.527
+One of the best movies I have seen this year!,1,positive,0.552
+I did not enjoy the movie at all.,0,negative,0.537
